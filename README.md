@@ -79,9 +79,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>JQ<\b> 
-
-JSON prettifier, powerful data extraction tool (built with C)
+- <b>JQ:</b> JSON prettifier, powerful data extraction tool (built with C)
 </summary>
 
   https://stedolan.github.io/jq/download/
@@ -93,9 +91,7 @@ JSON prettifier, powerful data extraction tool (built with C)
 </details>
 <details>
 <summary>
-- <b>Pup<\b>
-
-HTML data extraction (built with Golang)
+- <b>Pup:</b> HTML data extraction (built with Golang)
 </summary>
 
   https://github.com/ericchiang/pup#install
@@ -109,9 +105,7 @@ HTML data extraction (built with Golang)
 
 <details>
 <summary>
-- <b>XMLStarlet<\b>
-
-XML data extraction (written in C)
+- <b>XMLStarlet:</b> XML data extraction (written in C)
 </summary>
 
   (**do not recommend** because its not very intuitive)
@@ -122,9 +116,7 @@ XML data extraction (written in C)
 </details>
 <details>
 <summary>
-- <b>FZF<\b>
-
-Fuzzy search over commandline history and file path (built with Golang)
+- <b>FZF:</b> Fuzzy search over commandline history and file path (built with Golang)
 </summary>
   
   https://github.com/junegunn/fzf#installation
@@ -138,9 +130,7 @@ Fuzzy search over commandline history and file path (built with Golang)
 </details>
 <details>
 <summary>
-- <b>RipGrep<\b>
-
-Faster `grep` (built with Rust)
+- <b>RipGrep:</b> Faster `grep` (built with Rust)
 </summary>
 
   https://github.com/BurntSushi/ripgrep#installation
@@ -152,9 +142,7 @@ Faster `grep` (built with Rust)
 </details>
 <details>
 <summary>
-- <b>FD<\b>
-
-Faster `find` (built with Rust)
+- <b>FD:</b> Faster `find` (built with Rust)
 </summary>
 
   https://github.com/sharkdp/fd#installation
@@ -170,7 +158,7 @@ Faster `find` (built with Rust)
 
 <details>
 <summary>
-- <b>Exa<\b> 
+- <b>Exa</b> 
 
 Improved `ls` (built with Rust)
 </summary>
@@ -185,9 +173,7 @@ Improved `ls` (built with Rust)
 
 <details>
 <summary>
-- <b>Bat<\b>
-
-Improved `cat` (built with Rust)
+- <b>Bat:</b> Improved `cat` (built with Rust)
 </summary>
 
   https://github.com/sharkdp/bat#installation
