@@ -64,6 +64,8 @@ An opinionated guide to an ideal command line environment
     golang
   )
 
+  ## TODO: split this into language specific section
+
   ```
   
   - zsh-autosuggestions:
@@ -186,3 +188,7 @@ An opinionated guide to an ideal command line environment
   cargo install bat
   ```
 </details>
+
+## Additional Notes
+
+- More information on usages, tips and tricks [HERE](https://github.com/sluongng/awesome-command-line/issues?utf8=%E2%9C%93&q=is%3Aissue+sort%3Aupdated-desc+)
