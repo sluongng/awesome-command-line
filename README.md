@@ -16,7 +16,7 @@ An opinionated guide to an ideal command line environment
 ## Shell
 
 <details>
-<summary>- ZSH</summary>
+<summary>ZSH</summary>
 
   https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 
@@ -36,7 +36,7 @@ An opinionated guide to an ideal command line environment
 </details>
   
 <details>
-<summary>- Oh-my-zsh</summary>
+<summary>Oh-my-zsh</summary>
 
   https://github.com/robbyrussell/oh-my-zsh#basic-installation
   
@@ -46,7 +46,7 @@ An opinionated guide to an ideal command line environment
 </details>
 
 <details>
-<summary>- Essential Oh-my-ZSH plugins</summary>
+<summary>Essential Oh-my-ZSH plugins</summary>
 
   ```text
 
@@ -57,7 +57,7 @@ An opinionated guide to an ideal command line environment
     sudo
     zsh-autosuggestions
     mvn
-    node
+  node
     kubectl
     zsh-better-npm-completion
     spring
@@ -79,7 +79,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>JQ:</b> JSON prettifier, powerful data extraction tool (built with C)
+<b>JQ:</b> JSON prettifier, powerful data extraction tool (built with C)
 </summary>
 
   https://stedolan.github.io/jq/download/
@@ -92,7 +92,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>Pup:</b> HTML data extraction (built with Golang)
+<b>Pup:</b> HTML data extraction (built with Golang)
 </summary>
 
   https://github.com/ericchiang/pup#install
@@ -106,7 +106,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>XMLStarlet:</b> XML data extraction (written in C)
+<b>XMLStarlet:</b> XML data extraction (written in C)
 </summary>
 
   (**do not recommend** because its not very intuitive)
@@ -118,7 +118,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>FZF:</b> Fuzzy search over commandline history and file path (built with Golang)
+<b>FZF:</b> Fuzzy search over commandline history and file path (built with Golang)
 </summary>
   
   https://github.com/junegunn/fzf#installation
@@ -133,7 +133,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>RipGrep:</b> Faster `grep` (built with Rust)
+<b>RipGrep:</b> Faster `grep` (built with Rust)
 </summary>
 
   https://github.com/BurntSushi/ripgrep#installation
@@ -146,7 +146,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>FD:</b> Faster `find` (built with Rust)
+<b>FD:</b> Faster `find` (built with Rust)
 </summary>
 
   https://github.com/sharkdp/fd#installation
@@ -163,7 +163,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>Exa:</b> Improved `ls` (built with Rust)
+<b>Exa:</b> Improved `ls` (built with Rust)
 </summary>
 
   https://github.com/ogham/exa#installation
@@ -176,7 +176,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>Bat:</b> Improved `cat` (built with Rust)
+<b>Bat:</b> Improved `cat` (built with Rust)
 </summary>
 
   https://github.com/sharkdp/bat#installation
