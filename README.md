@@ -16,7 +16,7 @@ An opinionated guide to an ideal command line environment
 ## Shell
 
 <details>
-<summary>- ZSH:<summary>
+<summary>- ZSH:</summary>
 
   https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 
@@ -35,15 +35,18 @@ An opinionated guide to an ideal command line environment
   ```
 </details>
   
-- Oh-my-zsh:
+<details>
+<summary>- Oh-my-zsh:</summary>
 
   https://github.com/robbyrussell/oh-my-zsh#basic-installation
   
   ```shell
   sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
   ```
-  
-- Essential Oh-my-ZSH plugins:
+</details>
+
+<details>
+<summary>- Essential Oh-my-ZSH plugins:</summary>
 
   ```text
 
@@ -70,6 +73,7 @@ An opinionated guide to an ideal command line environment
     ```shell
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
     ```
+</details>
 
 ## Binaries / CLI toolings
 
