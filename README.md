@@ -89,6 +89,7 @@ An opinionated guide to an ideal command line environment
   brew install jq
   ```
 </details>
+
 <details>
 <summary>
 - <b>Pup:</b> HTML data extraction (built with Golang)
@@ -114,6 +115,7 @@ An opinionated guide to an ideal command line environment
   sudo apt search xmlstarlet
   ```
 </details>
+
 <details>
 <summary>
 - <b>FZF:</b> Fuzzy search over commandline history and file path (built with Golang)
@@ -128,6 +130,7 @@ An opinionated guide to an ideal command line environment
   $(brew --prefix)/opt/fzf/install
   ```
 </details>
+
 <details>
 <summary>
 - <b>RipGrep:</b> Faster `grep` (built with Rust)
@@ -140,6 +143,7 @@ An opinionated guide to an ideal command line environment
   sudo apt install ripgrep
   ```
 </details>
+
 <details>
 <summary>
 - <b>FD:</b> Faster `find` (built with Rust)
@@ -155,6 +159,7 @@ An opinionated guide to an ideal command line environment
   ```
 
   - Note: This can be use in combination with FZF to search and navigate through directory tree even faster
+</details>
 
 <details>
 <summary>
