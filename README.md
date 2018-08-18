@@ -79,7 +79,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- **JQ** 
+- <b>JQ<\b> 
 
 JSON prettifier, powerful data extraction tool (built with C)
 </summary>
@@ -93,7 +93,7 @@ JSON prettifier, powerful data extraction tool (built with C)
 </details>
 <details>
 <summary>
-- **Pup**
+- <b>Pup<\b>
 
 HTML data extraction (built with Golang)
 </summary>
@@ -109,7 +109,7 @@ HTML data extraction (built with Golang)
 
 <details>
 <summary>
-- **XMLStarlet**
+- <b>XMLStarlet<\b>
 
 XML data extraction (written in C)
 </summary>
@@ -122,7 +122,7 @@ XML data extraction (written in C)
 </details>
 <details>
 <summary>
-- **FZF**
+- <b>FZF<\b>
 
 Fuzzy search over commandline history and file path (built with Golang)
 </summary>
@@ -137,7 +137,11 @@ Fuzzy search over commandline history and file path (built with Golang)
   ```
 </details>
 <details>
-<summary>- RipGrep: Faster `grep` (built with Rust)</summary>
+<summary>
+- <b>RipGrep<\b>
+
+Faster `grep` (built with Rust)
+</summary>
 
   https://github.com/BurntSushi/ripgrep#installation
 
@@ -147,7 +151,11 @@ Fuzzy search over commandline history and file path (built with Golang)
   ```
 </details>
 <details>
-<summary>- FD: Faster `find` (built with Rust)</summary>
+<summary>
+- <b>FD<\b>
+
+Faster `find` (built with Rust)
+</summary>
 
   https://github.com/sharkdp/fd#installation
 
@@ -158,9 +166,14 @@ Fuzzy search over commandline history and file path (built with Golang)
   # https://github.com/sharkdp/fd/releases
   ```
 
-  +/ Note:<details> This can be use in combination with FZF to search and navigate through directory tree even faster
+  - Note: This can be use in combination with FZF to search and navigate through directory tree even faster
+
 <details>
-<summary>- Exa: Improved `ls` (built with Rust)</summary>
+<summary>
+- <b>Exa<\b> 
+
+Improved `ls` (built with Rust)
+</summary>
 
   https://github.com/ogham/exa#installation
 
@@ -169,8 +182,13 @@ Fuzzy search over commandline history and file path (built with Golang)
   cargo install exa
   ```
 </details>
+
 <details>
-<summary>- Bat: Improved `cat` (built with Rust)</summary>
+<summary>
+- <b>Bat<\b>
+
+Improved `cat` (built with Rust)
+</summary>
 
   https://github.com/sharkdp/bat#installation
 
@@ -178,3 +196,4 @@ Fuzzy search over commandline history and file path (built with Golang)
   brew install bat
   cargo install bat
   ```
+</details>
