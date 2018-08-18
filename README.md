@@ -189,6 +189,24 @@ An opinionated guide to an ideal command line environment
   ```
 </details>
 
+<details>
+<summary>
+<b>Mycli:</b> Commandline `mysql` with autocorrect (built with Python)
+</summary>
+
+  https://github.com/dbcli/mycli#quick-start
+
+  ```shell
+  brew install mycli
+
+  sudo apt install mycli
+  ```
+
+  - Postgres: https://github.com/dbcli/pgcli#quick-start
+
+  - MSSQL / SQL Server: https://github.com/dbcli/mssql-cli#mssql-cli
+</details>
+
 ## Additional Notes
 
 - More information on usages, tips and tricks [HERE](https://github.com/sluongng/awesome-command-line/issues?utf8=%E2%9C%93&q=is%3Aissue+sort%3Aupdated-desc+)
