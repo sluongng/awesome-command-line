@@ -57,7 +57,7 @@ An opinionated guide to an ideal command line environment
     sudo
     zsh-autosuggestions
     mvn
-  node
+    node
     kubectl
     zsh-better-npm-completion
     spring
