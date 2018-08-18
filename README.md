@@ -1,4 +1,6 @@
+
 # awesome-command-line
+
 An opinionated guide to an ideal command line environment
 
 ## Linux
@@ -13,12 +15,15 @@ An opinionated guide to an ideal command line environment
 
 ## Shell
 
-- ZSH:
+<details>
+<summary>- ZSH:<summary>
 
   https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 
   Linux
+
   ```shell
+
   # Linux
   sudo apt-get install zsh
   
@@ -26,7 +31,9 @@ An opinionated guide to an ideal command line environment
   brew install zsh zsh-completions
   
   chsh -s $(which zsh)
+
   ```
+</details>
   
 - Oh-my-zsh:
 
@@ -38,7 +45,8 @@ An opinionated guide to an ideal command line environment
   
 - Essential Oh-my-ZSH plugins:
 
-  ```
+  ```text
+
   plugins=(
     docker
     docker-compose
@@ -52,10 +60,11 @@ An opinionated guide to an ideal command line environment
     spring
     golang
   )
+
   ```
   
-  + zsh-autosuggestions:
-    
+  - zsh-autosuggestions:
+
     https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 
     ```shell
@@ -64,7 +73,8 @@ An opinionated guide to an ideal command line environment
 
 ## Binaries / CLI toolings
 
-- JQ: JSON prettifier, powerful data extraction tool (built with C)
+<details>
+<summary>- JQ: JSON prettifier, powerful data extraction tool (built with C)</summary>
 
   https://stedolan.github.io/jq/download/
 
@@ -72,8 +82,9 @@ An opinionated guide to an ideal command line environment
   sudo apt install jq
   brew install jq
   ```
-
-- Pup: HTML data extraction (built with Golang)
+</details>
+<details>
+<summary>- Pup: HTML data extraction (built with Golang)</summary>
 
   https://github.com/ericchiang/pup#install
 
@@ -82,16 +93,18 @@ An opinionated guide to an ideal command line environment
 
   brew install https://raw.githubusercontent.com/EricChiang/pup/master/pup.rb
   ```
-
-- XMLStarlet: XML data extraction (written in C)
+</details>
+<details>
+<summary>- XMLStarlet: XML data extraction (written in C)</summary>
 
   (**do not recommend** because its not very intuitive)
 
   ```shell
   sudo apt search xmlstarlet
   ```
-
-- FZF: Fuzzy search over commandline history and file path (built with Golang)
+</details>
+<details>
+<summary>- FZF: Fuzzy search over commandline history and file path (built with Golang)</summary>
   
   https://github.com/junegunn/fzf#installation
 
@@ -101,8 +114,9 @@ An opinionated guide to an ideal command line environment
   # To install useful key bindings and fuzzy completion:
   $(brew --prefix)/opt/fzf/install
   ```
-
-- RipGrep: Faster `grep` (built with Rust)
+</details>
+<details>
+<summary>- RipGrep: Faster `grep` (built with Rust)</summary>
 
   https://github.com/BurntSushi/ripgrep#installation
 
@@ -110,8 +124,9 @@ An opinionated guide to an ideal command line environment
   brew install ripgrep
   sudo apt install ripgrep
   ```
-
-- FD: Faster `find` (built with Rust)
+</details>
+<details>
+<summary>- FD: Faster `find` (built with Rust)</summary>
 
   https://github.com/sharkdp/fd#installation
 
@@ -122,8 +137,9 @@ An opinionated guide to an ideal command line environment
   # https://github.com/sharkdp/fd/releases
   ```
 
-  + Note: This can be use in combination with FZF to search and navigate through directory tree even faster
-- Exa: Improved `ls` (built with Rust)
+  +/ Note:<details> This can be use in combination with FZF to search and navigate through directory tree even faster
+<details>
+<summary>- Exa: Improved `ls` (built with Rust)</summary>
 
   https://github.com/ogham/exa#installation
 
@@ -131,8 +147,9 @@ An opinionated guide to an ideal command line environment
   brew install exa
   cargo install exa
   ```
-
-- Bat: Improved `cat` (built with Rust)
+</details>
+<details>
+<summary>- Bat: Improved `cat` (built with Rust)</summary>
 
   https://github.com/sharkdp/bat#installation
 
