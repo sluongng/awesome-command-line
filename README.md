@@ -163,9 +163,7 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-- <b>Exa</b> 
-
-Improved `ls` (built with Rust)
+- <b>Exa:</b> Improved `ls` (built with Rust)
 </summary>
 
   https://github.com/ogham/exa#installation
