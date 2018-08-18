@@ -16,7 +16,7 @@ An opinionated guide to an ideal command line environment
 ## Shell
 
 <details>
-<summary>- ZSH:</summary>
+<summary>- ZSH</summary>
 
   https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH
 
@@ -36,7 +36,7 @@ An opinionated guide to an ideal command line environment
 </details>
   
 <details>
-<summary>- Oh-my-zsh:</summary>
+<summary>- Oh-my-zsh</summary>
 
   https://github.com/robbyrussell/oh-my-zsh#basic-installation
   
@@ -46,7 +46,7 @@ An opinionated guide to an ideal command line environment
 </details>
 
 <details>
-<summary>- Essential Oh-my-ZSH plugins:</summary>
+<summary>- Essential Oh-my-ZSH plugins</summary>
 
   ```text
 
@@ -78,7 +78,11 @@ An opinionated guide to an ideal command line environment
 ## Binaries / CLI toolings
 
 <details>
-<summary>- JQ: JSON prettifier, powerful data extraction tool (built with C)</summary>
+<summary>
+- **JQ** 
+
+JSON prettifier, powerful data extraction tool (built with C)
+</summary>
 
   https://stedolan.github.io/jq/download/
 
@@ -88,7 +92,11 @@ An opinionated guide to an ideal command line environment
   ```
 </details>
 <details>
-<summary>- Pup: HTML data extraction (built with Golang)</summary>
+<summary>
+- **Pup**
+
+HTML data extraction (built with Golang)
+</summary>
 
   https://github.com/ericchiang/pup#install
 
@@ -98,8 +106,13 @@ An opinionated guide to an ideal command line environment
   brew install https://raw.githubusercontent.com/EricChiang/pup/master/pup.rb
   ```
 </details>
+
 <details>
-<summary>- XMLStarlet: XML data extraction (written in C)</summary>
+<summary>
+- **XMLStarlet**
+
+XML data extraction (written in C)
+</summary>
 
   (**do not recommend** because its not very intuitive)
 
@@ -108,7 +121,11 @@ An opinionated guide to an ideal command line environment
   ```
 </details>
 <details>
-<summary>- FZF: Fuzzy search over commandline history and file path (built with Golang)</summary>
+<summary>
+- **FZF**
+
+Fuzzy search over commandline history and file path (built with Golang)
+</summary>
   
   https://github.com/junegunn/fzf#installation
 
