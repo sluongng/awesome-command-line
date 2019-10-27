@@ -189,6 +189,22 @@ An opinionated guide to an ideal command line environment
   ```
 </details>
 
+
+<details>
+<summary>
+<b>FastMod:</b> Improved `sed` (built with Rust)
+</summary>
+  Facebook awesome code refactoring tool using Rust regex (same lib as FD and Ripgrep)
+  
+  See Also: https://github.com/facebook/codemod, https://github.com/facebookarchive/pfff/
+
+  https://github.com/facebookincubator/fastmod
+
+  ```shell
+  cargo install fastmod
+  ```
+</details>
+
 <details>
 <summary>
 <b>Mycli:</b> Commandline `mysql` with autocorrect (built with Python)
