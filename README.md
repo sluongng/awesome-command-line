@@ -165,13 +165,26 @@ An opinionated guide to an ideal command line environment
 
 <details>
 <summary>
-<b>Exa:</b> Improved `ls` (built with Rust)
+<b>Exa / LSD:</b> Improved `ls` (built with Rust)
 </summary>
+  Both Exa and LSD are rust implementation of gnu `ls` command
+  The different is that Exa is **NOT** in active development thus I would recommend using LSD instead
 
+  https://github.com/Peltoche/lsd#installation
+  
+  ```shell
+  brew install lsd
+
+  cargo install lsd
+  
+  alias ls=lsd
+  ```
+  
   https://github.com/ogham/exa#installation
 
   ```shell
   brew install exa
+  
   cargo install exa
   ```
 </details>
